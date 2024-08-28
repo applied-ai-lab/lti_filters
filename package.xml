@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>lti_filters</name>
+  <version>6.2.0</version>
+  <description>State space models for lti filters</description>
+
+  <maintainer email="mitch@robots.ox.ac.uk">Alexander Mitchell</maintainer>
+
+  <license>BSD</license>
+  <url type="website">https://github.com/ipab-slmc/exotica</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>scipy</exec_depend>
+  
+</package>
