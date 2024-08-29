@@ -5,9 +5,9 @@ find_package(catkin REQUIRED)
 
 catkin_python_setup()
 
-catkin_package(
-    CATKIN_DEPENDS sensor_msgs
-)
+# catkin_package(
+#     CATKIN_DEPENDS sensor_msgs
+# )
 
 # catkin_install_python(PROGRAMS
 #     DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
